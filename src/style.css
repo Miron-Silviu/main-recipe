@@ -544,16 +544,7 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.table {
-  display: table;
-}
-
-.bg-green-900 {
+.bg-red-900 {
   --tw-bg-opacity: 1;
-  background-color: rgb(20 83 45 / var(--tw-bg-opacity));
-}
-
-.bg-blue-900 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(30 58 138 / var(--tw-bg-opacity));
+  background-color: rgb(127 29 29 / var(--tw-bg-opacity));
 }
