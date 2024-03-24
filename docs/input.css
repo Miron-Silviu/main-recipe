@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  @font-face {
+    .young-serif-regular {
+      font-family: 'Young Serif', serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+  }
+}
