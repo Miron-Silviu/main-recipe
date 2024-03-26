@@ -584,12 +584,33 @@ a {
   margin-bottom: 2rem;
 }
 
+.my-5 {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
 .ml-5 {
   margin-left: 1.25rem;
 }
 
 .mt-5 {
   margin-top: 1.25rem;
+}
+
+.mt-3 {
+  margin-top: 0.75rem;
+}
+
+.mt-6 {
+  margin-top: 1.5rem;
+}
+
+.list-item {
+  display: list-item;
+}
+
+.list-disc {
+  list-style-type: disc;
 }
 
 .rounded-md {
@@ -645,6 +666,10 @@ a {
   padding-left: 1.25rem;
 }
 
+.pt-3 {
+  padding-top: 0.75rem;
+}
+
 .font-youngSerifRegular {
   font-family: "young-serif-regular";
 }
@@ -656,6 +681,11 @@ a {
 
 .text-lg {
   font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
+.text-xl {
+  font-size: 1.25rem;
   line-height: 1.75rem;
 }
 
