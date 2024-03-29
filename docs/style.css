@@ -574,6 +574,10 @@ a {
   margin: 1.25rem;
 }
 
+.m-52 {
+  margin: 13rem;
+}
+
 .mx-5 {
   margin-left: 1.25rem;
   margin-right: 1.25rem;
@@ -589,6 +593,10 @@ a {
   margin-bottom: 2rem;
 }
 
+.mb-10 {
+  margin-bottom: 2.5rem;
+}
+
 .ml-5 {
   margin-left: 1.25rem;
 }
@@ -599,10 +607,6 @@ a {
 
 .mt-5 {
   margin-top: 1.25rem;
-}
-
-.mb-10 {
-  margin-bottom: 2.5rem;
 }
 
 .flex {
@@ -629,6 +633,11 @@ a {
   background-color: Dark Charcoal;
 }
 
+.bg-red-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(220 38 38 / var(--tw-bg-opacity));
+}
+
 .bg-roseWhite {
   --tw-bg-opacity: 1;
   background-color: hsl(330 100% 98% / var(--tw-bg-opacity));
@@ -640,6 +649,14 @@ a {
 
 .p-5 {
   padding: 1.25rem;
+}
+
+.p-11 {
+  padding: 2.75rem;
+}
+
+.p-20 {
+  padding: 5rem;
 }
 
 .px-10 {
@@ -683,16 +700,12 @@ a {
   padding-left: 1.25rem;
 }
 
-.font-youngSerifRegular {
-  font-family: "young-serif-regular";
-}
-
-.font-outfit {
-  font-family: "outfit-<uniquifier>";
-}
-
 .font-serif {
   font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+.font-youngSerifRegular {
+  font-family: "young-serif-regular";
 }
 
 .text-3xl {
@@ -705,6 +718,16 @@ a {
   line-height: 1.75rem;
 }
 
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
 .font-bold {
   font-weight: 700;
 }
@@ -713,14 +736,24 @@ a {
   font-weight: 600;
 }
 
-.text-wageBrown {
-  --tw-text-opacity: 1;
-  color: hsl(30 10% 34% / var(--tw-text-opacity));
+.font-thin {
+  font-weight: 100;
 }
 
-.text-red-900 {
-  --tw-text-opacity: 1;
-  color: rgb(127 29 29 / var(--tw-text-opacity));
+.font-extralight {
+  font-weight: 200;
+}
+
+.font-light {
+  font-weight: 300;
+}
+
+.font-normal {
+  font-weight: 400;
+}
+
+.font-medium {
+  font-weight: 500;
 }
 
 .text-red-950 {
@@ -728,16 +761,12 @@ a {
   color: rgb(69 10 10 / var(--tw-text-opacity));
 }
 
-.text-eggShall {
+.text-wageBrown {
   --tw-text-opacity: 1;
-  color: hsl(30 54% 90% / var(--tw-text-opacity));
+  color: hsl(30 10% 34% / var(--tw-text-opacity));
 }
 
-.text-darkRaspberry {
+.text-rose-950 {
   --tw-text-opacity: 1;
-  color: hsl(332 51% 32% / var(--tw-text-opacity));
-}
-
-.text-darkCharcoal {
-  color: Dark Charcoal;
+  color: rgb(76 5 25 / var(--tw-text-opacity));
 }
