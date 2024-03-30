@@ -629,10 +629,6 @@ a {
   border-bottom-width: 2px;
 }
 
-.border-b-0 {
-  border-bottom-width: 0px;
-}
-
 .bg-darkCharcoal {
   background-color: Dark Charcoal;
 }
@@ -642,17 +638,8 @@ a {
   background-color: hsl(330 100% 98% / var(--tw-bg-opacity));
 }
 
-.p-10 {
-  padding: 2.5rem;
-}
-
 .p-5 {
   padding: 1.25rem;
-}
-
-.px-10 {
-  padding-left: 2.5rem;
-  padding-right: 2.5rem;
 }
 
 .px-5 {
