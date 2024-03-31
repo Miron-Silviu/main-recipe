@@ -29,7 +29,7 @@
     <div
       class="main-description md:m-auto md:w-5/12 md: md:my-10  md:rounded-xl md:bg-white md:p-5"
     >
-      <img src="image-omelette.jpeg" alt="omelette-img" />
+      <img class="rounded-xl" src="image-omelette.jpeg" alt="omelette-img" />
       <h1 class="font-bold py-5 pl-5 text-3xl title">Simple Omelette Recipe</h1>
       <p class="description px-5">
         An easy and quick dish, perfect for any mean. This classic omelette
@@ -110,24 +110,28 @@
             additional fillings.
           </p>
         </div>
-        <table class="table-auto  flex justify-center mr-10 mb-10">
-          <tbody class="text-lg font-serif">
-            <tr class="border-b-2">
+        <table
+          class="table-auto flex justify-center mr-10 mb-10  md:justify-center "
+        >
+          <tbody
+            class="text-lg font-serif md:m-full md:min-w-full md:flex md:flex-col "
+          >
+            <tr class="border-b-2 md:flex justify-around">
               <td class="p-5">Calories</td>
-              <td class="text-rose-950 font-semibold">227kcal</td>
+              <td class="text-rose-950 font-semibold md:p-5 ">227kcal</td>
             </tr>
 
-            <tr class="border-b-2">
+            <tr class="border-b-2 md:flex justify-around">
               <td class="p-5">Carbs</td>
-              <td class="text-rose-950 font-semibold">0g</td>
+              <td class="text-rose-950 font-semibold md:p-5">0g</td>
             </tr>
-            <tr class="border-b-2">
+            <tr class="border-b-2 md:flex justify-around">
               <td class=" p-5">Protein</td>
-              <td class="text-rose-950 font-semibold">20g</td>
+              <td class="text-rose-950 font-semibold md:p-5">20g</td>
             </tr>
-            <tr class="border-b-2">
+            <tr class="border-b-2 md:flex justify-around">
               <td class="p-5">Fat</td>
-              <td class="text-rose-950 font-semibold">22g</td>
+              <td class="text-rose-950 font-semibold md:p-5">22g</td>
             </tr>
           </tbody>
         </table>
