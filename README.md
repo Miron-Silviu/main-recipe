@@ -24,9 +24,8 @@ For this project was build a food recipe for improving new skills regarding how 
 
 ### Screenshot
 
-![![image](https://github.com/Miron-Silviu/main-recipe/assets/119732322/d0c5458a-19d7-42c0-a9d5-4caab31d0532)
-](![image](https://github.com/Miron-Silviu/main-recipe/assets/119732322/1ee01fdd-e743-48a7-918c-e81392d08d98)
-)
+![![]
+
 
 ### Links
 
