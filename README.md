@@ -24,7 +24,7 @@ For this project was build a food recipe for improving new skills regarding how 
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](![alt text](desktop-design.jpg))
 
 ### Links
 
