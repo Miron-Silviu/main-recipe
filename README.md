@@ -24,7 +24,11 @@ For this project was build a food recipe for improving new skills regarding how 
 
 ### Screenshot
 
-![](![alt text](desktop-design.jpg))
+
+(![alt text](desktop-design.jpg))
+
+
+
 
 ### Links
 
