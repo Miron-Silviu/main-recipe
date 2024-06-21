@@ -23,9 +23,9 @@ This is a solution to the [Recipe page challenge ]
 For this project was build a food recipe for improving new skills regarding how to use table in tailwind.
 
 # LINK
-- Solution URL: [https://miron-silviu.github.io/main-recipe/]
-- 
-### Screenshot
+- [VIEW DEMO] [https://miron-silviu.github.io/main-recipe/]
+
+## Screenshot
 
 (![alt text](desktop-design.jpg))
 
