@@ -22,13 +22,13 @@ This is a solution to the [Recipe page challenge ]
 
 For this project was build a food recipe for improving new skills regarding how to use table in tailwind.
 
-### Screenshot
+## Links
+- [LIVE:DEMP] [https://miron-silviu.github.io/main-recipe/]
 
+## Screenshot
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/8bcf18c3-0d43-4cef-b881-0dffc564dec7">
 ![](./screenshot.jpg)
 
-## Links
-
-- [LIVE:DEMP] [https://miron-silviu.github.io/main-recipe/]
 
 ## My process
 
