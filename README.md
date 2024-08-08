@@ -27,7 +27,6 @@ For this project was build a food recipe for improving new skills regarding how 
 
 ## Screenshot
 <img width="946" alt="image" src="https://github.com/user-attachments/assets/8bcf18c3-0d43-4cef-b881-0dffc564dec7">
-![](./screenshot.jpg)
 
 
 ## My process
@@ -40,7 +39,7 @@ In the first instance I installed tailwind using CLI and then I added assets and
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-  -tailwind
+ -tailwind
 
 ## What I learned
 
