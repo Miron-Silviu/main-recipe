@@ -15,15 +15,16 @@ This is a solution to the [Recipe page challenge ]
   - [Useful resources](#useful-resources)
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
+  - 
+## Links
+- [LIVE:DEMO]()
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+[![DEPLOYMENT](https://github.com/Miron-Silviu/Guess-my-Number/blob/main/images/Frame%201.png)](https://miron-silviu.github.io/main-recipe/)
 
 ## Overview
 
 For this project was build a food recipe for improving new skills regarding how to use table in tailwind.
 
-## Links
-- [LIVE:DEMO](https://miron-silviu.github.io/main-recipe/)
 
 ## Screenshot
 <img width="946" alt="image" src="https://github.com/user-attachments/assets/8bcf18c3-0d43-4cef-b881-0dffc564dec7">
